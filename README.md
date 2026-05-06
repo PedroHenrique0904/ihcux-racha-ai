@@ -40,11 +40,11 @@ Você pode visualizar o protótipo completo através do link do Miro:
 https://miro.com/app/live-embed/uXjVHZoAL_k=/?embedMode=view_only_without_ui&moveToViewport=-839%2C-954%2C5100%2C2420&embedId=456179276068
 
 Integrantes:
-Arthur Daniel
-Gustavo Trega
-Pedro Henrique Silva Duarte
-Matheus Brum
-Rafael Alexandre
+ Arthur Daniel,
+ Gustavo Trega,
+ Pedro Henrique Silva Duarte,
+ Matheus Brum,
+ Rafael Alexandre,
 
 Considerações Finais:
 
